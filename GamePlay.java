@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package testGame;
-import javax.swing.JFrame; // يصنع شاشة للالعاب 
+ 
 import javax.swing.JPanel; // حاوية ل باقي المكونات 
 import javax.swing.Timer; // كلاس يطلق حدث او اكثر بعد تاخير معين
 import java.awt.Graphics2D; // توفير قدرات رسم عالية 
