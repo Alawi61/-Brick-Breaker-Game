@@ -1,5 +1,5 @@
 
-package gameplay;
+package testGame;
 
 import java.awt.BasicStroke;
 import java.awt.Color;
