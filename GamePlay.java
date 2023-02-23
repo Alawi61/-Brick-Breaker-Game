@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gameplay;
+package testGame;
 import javax.swing.JFrame; // يصنع شاشة للالعاب 
 import javax.swing.JPanel; // حاوية ل باقي المكونات 
 import javax.swing.Timer; // كلاس يطلق حدث او اكثر بعد تاخير معين
